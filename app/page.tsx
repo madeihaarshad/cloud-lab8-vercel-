@@ -1,4 +1,5 @@
 export default function Home() {
+  const studentName = process.env.NEXT_PUBLIC_STUDENT_NAME;
   return (
     <main
       style={{
@@ -44,3 +45,6 @@ export default function Home() {
     </main>
   );
 }
+
+
+
