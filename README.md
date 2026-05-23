@@ -1,12 +1,12 @@
 # Lab 8 — Vercel Frontend Deployment
 
 **Name:** Madeiha Arshad
-**Roll No:** [Your Roll No]
-**Lab:** 8 — Cloud Computing (Bahria University)
+**Enrollment** 01-131232-040
+**Lab:** 8 — Vercel Deployment, Cloud Computing (Bahria University)
 **Instructor:** Engr. Salman Zafar
 
 ## Live Production URL
-https://your-app.vercel.app
+https://cloud-lab8-vercel-pi.vercel.app/
 
 ## What This Lab Covers
 - Frontend deployment with Vercel
