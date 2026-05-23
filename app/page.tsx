@@ -3,7 +3,7 @@ export default function Home() {
     <main style={{ textAlign: "center", marginTop: "8%" }}>
       <h1>Lab 8 — Vercel Deployment</h1>
       <p>Name: Madeiha Arshad</p>
-      <p>Roll No: [Your Roll No]</p>
+      <p>Enrollment: 01-131232-040</p>
       <h2 style={{ marginTop: "2rem" }}>Completed Labs</h2>
       <ul style={{ listStyle: "none", padding: 0 }}>
         <li>✅ Lab 5 — Docker</li>
